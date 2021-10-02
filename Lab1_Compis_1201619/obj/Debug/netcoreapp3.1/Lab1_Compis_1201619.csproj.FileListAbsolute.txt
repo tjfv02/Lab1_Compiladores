@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\bin\Debug\netcoreapp3.1\Lab1_Compis_1201619.exe
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\bin\Debug\netcoreapp3.1\Lab1_Compis_1201619.deps.json
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\bin\Debug\netcoreapp3.1\Lab1_Compis_1201619.runtimeconfig.json
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\bin\Debug\netcoreapp3.1\Lab1_Compis_1201619.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\bin\Debug\netcoreapp3.1\Lab1_Compis_1201619.dll
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\bin\Debug\netcoreapp3.1\Lab1_Compis_1201619.pdb
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\obj\Debug\netcoreapp3.1\Lab1_Compis_1201619.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\obj\Debug\netcoreapp3.1\Lab1_Compis_1201619.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\obj\Debug\netcoreapp3.1\Lab1_Compis_1201619.AssemblyInfo.cs
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\obj\Debug\netcoreapp3.1\Lab1_Compis_1201619.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\obj\Debug\netcoreapp3.1\Lab1_Compis_1201619.dll
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\obj\Debug\netcoreapp3.1\Lab1_Compis_1201619.pdb
+C:\Users\HP\source\repos\Lab1_Compis_1201619\Lab1_Compis_1201619\obj\Debug\netcoreapp3.1\Lab1_Compis_1201619.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+GtqDem+uPAZjTx53Kjn80NCZyUkvMVR9T0P8BKgofQCHyWcNesI7OTgpbmwqzFdxgQuw/QxJVgEnv3K4ul4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Lab1_Compis_1201619\\Lab1_Compis_1201619\\Lab1_Compis_1201619.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
